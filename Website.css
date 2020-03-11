@@ -1,0 +1,38 @@
+a{
+    font-family: "Comic Sans MS";
+    color: aquamarine;
+
+}
+h1{
+    color: mediumpurple;
+}
+h2{
+    color: darkorchid;
+}
+a:visited{
+    color: indigo;
+}
+th{
+    color: cornflowerblue;
+}
+td{
+    font-family: Cochin;
+}
+p{
+    font-family: Tahoma;
+}
+#sm{
+    color: mediumvioletred;
+    font-family: Helvetica;
+}
+#sm:visited{
+    color: darkblue;
+}
+h3{
+    color: mediumpurple;
+}
+footer{
+    position: page;
+    bottom: 0;
+    width: 100%;
+}
